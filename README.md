@@ -34,4 +34,4 @@ cd PRODIGY_GA_03
 python main.py
 
 
-|-- THANK YOU --|
+|-- THANK YOU ✨ --|
